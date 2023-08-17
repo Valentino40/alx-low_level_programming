@@ -1,5 +1,4 @@
-#ifnd
-ef _VARIADIC_H_
+#ifndef _VARIADIC_H_
 #define _VARIADIC_H_
 
 int _putchar(char c);
