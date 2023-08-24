@@ -1,7 +1,7 @@
 	global   main
 	  extern    printf
-mn:
-	  mov   edi, format
+main:
+	  mov   edi, fmt
 	  xor   eax, eax
 	  call  printf
 	  mov   eax, 0
