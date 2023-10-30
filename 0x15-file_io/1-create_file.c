@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * create_file - will create a file.
  * @filename: A pointer to the file name to be created.
